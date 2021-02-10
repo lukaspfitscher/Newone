@@ -74,7 +74,7 @@
 	#########################################
 	
 	You need tmux so your Python programs can run simultaneously and in the background.
-	Install tmux on your Pi and server with the command:
+	Install tmux on your Raspberry Pi and server with the command:
 	
 		sudo apt install tmux
 		
